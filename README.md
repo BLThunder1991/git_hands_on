@@ -1,4 +1,4 @@
 # git_hands_on
 // Takasugi Yeah!
 // Imagawa desu
-俺がコンフリクトさせてやるよ
+俺がコンフリクトさせてやるよ やらせねえよ
